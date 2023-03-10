@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">THEVAGAR</string>
+    <string name="language">English</string>
+    <string name="Hello_World">Hello World</string>
+    <string name="Vehicles_on_delivery">Vehicles On Delivery</string>
+    <string name="Inactive_vehicles">Inactive Vehicles</string>
+    <string name="Deployed_vehicles">Deployed Vehicles</string>
+    <string name="Change_Language">Change Language</string>
+    <string name="languageone">Language/française</string>
+    <string name="preferred_language">Preffered Language</string>
+
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">THEVAGAR</string>
+    <string name="language">French</string>
+    <string name="Hello_World">Bonjour le monde</string>
+    <string name="Vehicles_on_delivery">Véhicules à la livraison</string>
+    <string name="Inactive_vehicles">Véhicule inactif</string>
+    <string name="Deployed_vehicles">Véhicules déployés</string>
+    <string name="Change_Language">Changer de langue</string>
+    <string name="languageone" translatable="false">Language/française</string>
+    <string name="preferred_language">LANGUE PRÉFÉRÉE</string>
+
+
+
+
+
+</resources>
